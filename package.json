@@ -1,0 +1,28 @@
+{
+  "name": "cord19-explorer",
+  "version": "1.0.0",
+  "description": "Interactive Streamlit app for exploring CORD-19 COVID-19 research dataset",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "build": "python -m pip install -r requirements.txt"
+  },
+  "keywords": [
+    "streamlit",
+    "covid-19",
+    "data-analysis",
+    "visualization",
+    "research",
+    "cord19"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/cord19-explorer"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/cord19-explorer/issues"
+  },
+  "homepage": "https://github.com/yourusername/cord19-explorer#readme"
+}
