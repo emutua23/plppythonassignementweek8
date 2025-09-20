@@ -14,11 +14,9 @@ An interactive Streamlit web application for exploring COVID-19 research papers 
 
 ## 🚀 Live Demo
 
-[View the live application here](https://your-app-name.netlify.app)
+[View the live application here](https://plppythonassignementweek8.streamlit.app/)
 
-## 📱 Screenshots
 
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
 
 ## 🛠️ Technologies Used
 
