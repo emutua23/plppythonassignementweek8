@@ -37,8 +37,8 @@ An interactive Streamlit web application for exploring COVID-19 research papers 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cord19-explorer.git
-   cd cord19-explorer
+   git clone https://github.com/emutua23/plppythonassignementweek8.git
+   cd plppythonassignementweek8.git
    ```
 
 2. **Install dependencies**
@@ -104,7 +104,7 @@ This application uses sample data that mimics the structure of the CORD-19 datas
 - **Sources**: PMC, WHO, arXiv, bioRxiv, medRxiv
 - **Fields**: Titles, authors, journals, publication dates
 
-For the actual CORD-19 dataset, visit: [CORD-19 Dataset](https://www.semanticscholar.org/cord19/download)
+For the actual CORD-19 dataset, visit: [CORD-19 Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
 ## 🎛️ Interactive Features
 
@@ -165,9 +165,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **GitHub**: [emutua23](https://github.com/emutua23/)
+- **Email**: emanuel.mutua@gmail.com
+- **LinkedIn**: [Emanuel Mutua](https://www.linkedin.com/in/emanuelmutua/)
 
 ---
 
